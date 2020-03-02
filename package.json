@@ -1,0 +1,19 @@
+{
+  "name": "pollbot",
+  "version": "1.0.0",
+  "description": "Discord autoresponder for polling channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poll",
+    "discord",
+    "autoresponder"
+  ],
+  "author": "nununoisy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
+}
